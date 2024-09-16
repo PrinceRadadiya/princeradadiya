@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:radadiyaprince1@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=radadiyaprince1@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <a href="https://www.linkedin.com/in/prince-radadiya-9a567125a/" target="_blank">
