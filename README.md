@@ -48,13 +48,15 @@
 <br/>
 <hr/>
 
+
 <div align="center">
-    <h2>🌟 GitHub Contribution Graph 🌟</h2>
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceRadadiya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="95%" alt="activity graph">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
-<br/>
 <hr/>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
